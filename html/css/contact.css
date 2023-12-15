@@ -1,0 +1,26 @@
+.tittle{
+    text-align: center;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    margin-right: 30px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+ul li a:hover{
+    background-color: green;
+}
+.description{
+    margin-top: 100px;
+    background-color: #eee;
+    padding: 20px;
+}
+.description p{
+    font-size: 19px;
+}

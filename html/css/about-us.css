@@ -1,0 +1,33 @@
+
+.tittle{
+    text-align: center;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    margin-right: 30px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+ul li a:hover{
+    background-color: green;
+}
+.about_section{
+    margin-top: 100px;
+}
+.second_tittle{
+    color: #314e77;
+    font-size: 30px;
+}
+p{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.video{
+    margin-top: 150px;
+}

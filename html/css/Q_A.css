@@ -1,0 +1,35 @@
+.tittle{
+    text-align: center;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    margin-right: 30px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+ul li a:hover{
+    background-color: green;
+}
+.QandA{
+    margin-top: 100px;
+    background-color: #eee;
+    padding: 10px;
+
+}
+.QandA ol li{
+    text-decoration: underline;
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-bottom: 6px;
+}
+.QandA ol span{
+    font-style: italic;
+    font-size: 17px;
+}
